@@ -8,7 +8,10 @@
   <img src="https://img.shields.io/badge/Design-Figma-purple?style=for-the-badge&logo=figma" />
   <img src="https://img.shields.io/badge/WordPress-Builder-black?style=for-the-badge&logo=wordpress" />
   <img src="https://img.shields.io/badge/Now%20Learning-Python-yellow?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Stack-MERN-green?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack%20(Learning)-MERN-green?style=for-the-badge&logo=javascript&logoColor=white" />
+  <a href="https://dev-mojammel-hosain.github.io/jisan/down/Mojammel%20Hosain%20Jesan.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download CV Badge">
+  </a>
 </p>
 
 ---
