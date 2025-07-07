@@ -9,9 +9,7 @@
   <img src="https://img.shields.io/badge/WordPress-Builder-black?style=for-the-badge&logo=wordpress" />
   <img src="https://img.shields.io/badge/Now%20Learning-Python-yellow?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Stack%20(Learning)-MERN-green?style=for-the-badge&logo=javascript&logoColor=white" />
-  <a href="https://dev-mojammel-hosain.github.io/jisan/down/Mojammel%20Hosain%20Jesan.pdf" target="_blank">
-  <img src="https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download CV Badge">
-  </a>
+
 </p>
 
 ---
@@ -25,6 +23,9 @@
 - 💬 Ask me about **Web Design, UI/UX, WordPress, Shopify, or AI tools**
 - 📫 Reach me at: **[mojammelkhan567@gmail.com]**
 - 🌐 Portfolio: [Personal Portfolio](https://dev-mojammel-hosain.github.io/jisan/)
+- <a href="https://dev-mojammel-hosain.github.io/jisan/down/Mojammel%20Hosain%20Jesan.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/Download%20CV-PDF-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Download CV Badge">
+  </a>
 
 ---
 
