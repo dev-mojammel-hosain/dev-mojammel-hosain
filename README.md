@@ -1,10 +1,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Mojammel Hosain Jesan</h1>
-<h3 align="center">A Passionate Frontend Web Developer & Designer from Bangladesh</h3>
+<h3 align="center">Frontend Web Developer | UI/UX Designer | React Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Front-End+Web+Developer+%7C+UI%2FUX+Expert;Frontend+UI Engineer+%7C+React+%7C+Tailwind;Let%27s+Build+Something+Great+Together!++" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Design-Figma-purple?style=for-the-badge&logo=figma" />
+  <img src="https://img.shields.io/badge/WordPress-Builder-black?style=for-the-badge&logo=wordpress" />
+  <img src="https://img.shields.io/badge/Loves%20CSS-Tailwind-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
 
 ---
