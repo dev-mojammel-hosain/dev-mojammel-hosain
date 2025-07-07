@@ -7,7 +7,8 @@
   <img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Design-Figma-purple?style=for-the-badge&logo=figma" />
   <img src="https://img.shields.io/badge/WordPress-Builder-black?style=for-the-badge&logo=wordpress" />
-  <img src="https://img.shields.io/badge/Loves%20CSS-Tailwind-0ea5e9?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Now%20Learning-Python-yellow?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stack-MERN-green?style=for-the-badge&logo=javascript&logoColor=white" />
 </p>
 
 ---
